@@ -1,3 +1,3 @@
 # Resourcerepository
 Were we store images and other stuff
-(images taken from google)
+(images are not ours, they taken from google)
